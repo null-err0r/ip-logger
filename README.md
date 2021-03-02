@@ -1,4 +1,4 @@
-# iplogger
+# ip logger
 # check internet connection
 # show your ip
 # detect change ip
